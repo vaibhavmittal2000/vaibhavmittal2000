@@ -14,13 +14,13 @@
 
 ### Languages and Tools:
 
-<p align="left"><img src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/vscode.png" alt="VScode" width="50" height="50" /></p>
-<p align="left"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50" /></p>
-<p align="left"><img src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/android.png" alt="Android" width="50" height="50" /></p>
-<p align="left"><img src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/java.svg" alt="Java" width="50" height="50" /></p>
-<p align="left"><img src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/intellij-idea.svg" alt="IntellijIdea" width="50" height="50" /></p>
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50" /></p>
-<p align="left"><img src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/google_cloud.png" alt="GoogleCoud" width="70" height="100" /></p>
+<img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/vscode.png" alt="VScode" width="50" height="50" />
+<img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50" /></p>
+<img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/android.png" alt="Android" width="50" height="50" /></p>
+<img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/java.svg" alt="Java" width="50" height="50" /></p>
+<img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/intellij-idea.svg" alt="IntellijIdea" width="50" height="50" /></p>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50" /></p>
+<img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/google_cloud.png" alt="GoogleCoud" width="70" height="100" /></p>
 <br />
 <br />
 
