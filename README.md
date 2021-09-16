@@ -16,7 +16,7 @@
 <img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/java.svg" alt="Java" width="50" height="50" />
 <img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/intellij-idea.svg" alt="IntellijIdea" width="50" height="50" />
 <img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/google_cloud.png" alt="GoogleCoud" width="70" height="70" />
-</p>
+</br>
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/vaibhav-mittal-2000/"><img align="left" alt="LinkedIn" height="35" width="35" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/linkedin.svg"/></a>
