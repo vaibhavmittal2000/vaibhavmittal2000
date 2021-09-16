@@ -30,7 +30,7 @@
 <a href="https://www.instagram.com/vaibhavmittal2000/"><img align="left" alt="Instagram" height="35" width="35" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/instagram.png"/></a>
 <a href="https://www.facebook.com/vaibhavmittal.7876695499/"><img align="left" alt="Facebook" height="35" width="35" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/facebook.png" /></a>
 <a href="https://www.facebook.com/vaibhavmittal.7876695499/"><img align="left" alt="HackerRank" height="35" width="100" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/HackerRank.png" /></a>
-
+<br />
 <br />
 
 
