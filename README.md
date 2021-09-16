@@ -20,7 +20,7 @@
 <img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/java.svg" alt="Java" width="50" height="50" /></p>
 <img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/intellij-idea.svg" alt="IntellijIdea" width="50" height="50" /></p>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50" /></p>
-<img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/google_cloud.png" alt="GoogleCoud" width="70" height="100" /></p>
+<img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/google_cloud.png" alt="GoogleCoud" width="80" height="50" /></p>
 <br />
 <br />
 
