@@ -10,8 +10,9 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="26px" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/android.png" alt="firebase" width="26px" />]
+[<img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/vscode.png" alt="VScode" width="26px" />]
+[<img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="26px" />]
+[<img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/android.png" alt="Android" width="26px" />]
+[<img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/java.svg" alt="Java" width="26px" />]
+[<img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/intellij-idea.svg" alt="IntellijIdea" width="26px" />]
 </p>
