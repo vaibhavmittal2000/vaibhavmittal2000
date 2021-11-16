@@ -11,6 +11,10 @@
 
 - 📫 Love watching **Web Series in free time⚡🙂**
 
+- 🤝 I’m looking for opportunities to **learn and grow as a Software Developer**
+
+- 📫 How to reach me **Just an e-mail 🎁 vaibhavmittal2019@gmail.com**
+
 
 ### Languages and Tools:
 
