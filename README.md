@@ -38,11 +38,5 @@
 <br />
 
 
-## Github Summary
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavmittal2000&show_icons=true&theme=gotham&count_private=true" alt="Vaibhav Mittal's | Stats"></p>
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavmittal2000&&theme=gotham" alt="Vaibhav Mittal's | Streaks"></p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavmittal2000&theme=gotham" alt="Vaibhav Mittal's | Most used Programming languages"></p>
-
 ### Profile visits
 <img src='https://profile-counter.glitch.me/vaibhavmittal2000/count.svg' width='auto'>
