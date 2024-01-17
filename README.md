@@ -1,13 +1,16 @@
 <h1 align="center">Hi, I'm Vaibhav Mittal <img src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/hi.gif" width="40px" /> </h1>
-<h3 align="center">Flutter developer || Google Cloud Learner</h3>
+<h3 align="center">Flutter Developer || Full-Stack Developer</h3>
 <br />
 
-![HI](https://user-images.githubusercontent.com/84865211/133631704-6071b816-502f-41bc-8bac-65246aa07962.jpeg)
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+//![HI](https://user-images.githubusercontent.com/84865211/133631704-6071b816-502f-41bc-8bac-65246aa07962.jpeg)
 
 
 - 🔭 Currently working on **Building myself**
 
-- 🧠 I am currently learning **Android Development**
+- 🧠 I am currently learning **Web Development**
 
 - 📫 Love watching **Web Series in free time⚡🙂**
 
@@ -16,14 +19,16 @@
 - 📫 How to reach me **Just an e-mail 🎁 vaibhavmittal2019@gmail.com**
 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50" /></p>
-<img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/android.png" alt="Android" width="50" height="50" /></p>
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/></p>
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/></p>
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/></p>
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/></p>
 <img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/java.svg" alt="Java" width="50" height="50" /></p>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="40"/></p>
 <img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/intellij-idea.svg" alt="IntellijIdea" width="50" height="50" /></p>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50" /></p>
 <img align="left" src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/google_cloud.png" alt="GoogleCoud" width="50" height="50" /></p>
 <br />
 <br />
