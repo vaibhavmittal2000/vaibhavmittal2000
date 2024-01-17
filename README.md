@@ -1,11 +1,10 @@
-<h1 align="center">Hi, I'm Vaibhav Mittal <img src="https://github.com/vaibhavmittal2000/QwikLabs/blob/main/assets/hi.gif" width="40px" /> </h1>
+<h1 align="center">Hi, I'm Vaibhav Mittal <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40px"/> </h1>
 <h3 align="center">Flutter Developer || Full-Stack Developer</h3>
 <br />
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-//![HI](https://user-images.githubusercontent.com/84865211/133631704-6071b816-502f-41bc-8bac-65246aa07962.jpeg)
 
 
 - 🔭 Currently working on **Building myself**
